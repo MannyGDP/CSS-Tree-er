@@ -10,3 +10,7 @@
   transform: translate(-50%, -50%);
   color: white;
 }
+.img-fluid {
+  max-width: 100%;
+  height: auto;
+}
